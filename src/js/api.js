@@ -1,3 +1,4 @@
+// Hello 123
 var url = "https://chelyshkov.ru/skyeng-tutor-api";
 
 function fetchRandomWord() {
